@@ -2,7 +2,8 @@
 
 | Pipeline                            | Possible Training Data | Possible Models | Notes |
 |-------------------------------------|------------------------|-----------------|-------|
-| Part-of-speech tagging (Stanford)   |                        |                 |       |
+| Part-of-speech tagging (Stanford)   |   Russian National Corpus tagset
+                                          test second line|                 |       |
 | Dependency parsing (MaltParser)     |                        |                 |       |
 | Named entity recognition (Stanford) |                        |                 |       |
 | Character name clustering           |                        |                 |       |
