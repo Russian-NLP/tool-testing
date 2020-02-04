@@ -1,41 +1,38 @@
 [BookNLP](https://github.com/dbamman/book-nlp) currently has the following pipelines: 
 
-Pipeline                            | Possible Training Data | Possible Models | Notes |
+- [ ] Part-of-speech tagging (Stanford)  
+Data: Russian National Corpus tagset  
+Models:  
 
-- [ ] Part-of-speech tagging (Stanford)
-Data: Russian National Corpus tagset
-Models:
+- [ ] Dependency parsing (MaltParser)  
+Data:   
+Models:  
 
-- [ ] Dependency parsing (MaltParser)
-Data: 
-Models:
-
-
-- [ ] Named entity recognition (Stanford)
-Data:
-Models:
+- [ ] Named entity recognition (Stanford)  
+Data:  
+Models:  
 
 
-- [ ] Character name clustering
-Data:
-Models:
+- [ ] Character name clustering  
+Data:  
+Models:  
 
 
-- [ ] Quotation speaker identification
-Data:
-Models:
+- [ ] Quotation speaker identification  
+Data:  
+Models:  
 
 
-- [ ] Pronominal co-reference resolution
-Data: 
-Models:
+- [ ] Pronominal co-reference resolution  
+Data:   
+Models:  
 
 
-- [ ] Supersense tagging
-Data:
-Models:
+- [ ] Supersense tagging  
+Data:  
+Models:  
 
-- [ ] other...
+- [ ] other...  
 
 
  --- 
