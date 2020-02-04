@@ -12,6 +12,7 @@ Models:
 
 - [ ] Named entity recognition (Stanford)  
 Data:  
+[Leo Tolstoy](https://github.com/tolstoydigital/TEI)  
 Models:  
 
 
