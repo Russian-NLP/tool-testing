@@ -48,6 +48,8 @@ Data: [UD trees](https://universaldependencies.org/#download) USD, Taiga, PUD, S
 
 - [ ] document vectors, doc similarity
 
+- [ ] [extractive text summarization](https://medium.com/better-programming/extractive-text-summarization-using-spacy-in-python-88ab96d1fd97)
+
  --- 
 [spaCy pipelines](https://spacy.io/usage/processing-pipelines)  
 [spaCy custom pipelines](https://spacy.io/usage/processing-pipelines#custom-components)
