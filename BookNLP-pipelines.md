@@ -37,7 +37,11 @@ Models:
 
 - [ ] other...  
 
-- [ ] Lemmas
+- [ ] Entity linking 
+KB:  Wikipedia?
+  
+
+- [ ] Lemmata
 Data: [UD trees](https://universaldependencies.org/#download) USD, Taiga, PUD, SynTagRus
 
 
