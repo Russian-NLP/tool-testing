@@ -44,6 +44,9 @@ KB:  Wikipedia?
 - [ ] Lemmata
 Data: [UD trees](https://universaldependencies.org/#download) USD, Taiga, PUD, SynTagRus
 
+- [ ] period prediction 
+
+- [ ] document vectors, doc similarity
 
  --- 
 [spaCy pipelines](https://spacy.io/usage/processing-pipelines)  
